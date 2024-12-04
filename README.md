@@ -4,8 +4,7 @@
 - My current / near future projects are: 
   - Re-writing the Snowdown Band's website using Laravel (currently on Wordpress where all custom funcationality is burried in a Wordpress plugin that I wrote (probably badly!)
   - Re-writing the Kent Scouts International Jamboree Booting Portal (again is currently a Wordpress base with a custom plugin doing all the heavy lifting to a new site utilising Laravel).
-- 💞️ I’m looking to collaborate on anything that will help me progress as a developer. About to be made redundant (laid off) from my current employment so looking at pastures new.
-- 📫 How to reach me @euphogeeza on Twitter or ritchiefraser.co.uk
+- 💞️ I’m looking to collaborate on anything that will help me progress as a developer.
 
 <!---
 euphogeeza/euphogeeza is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
